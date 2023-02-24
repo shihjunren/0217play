@@ -1,0 +1,16 @@
+檔案是html檔案 vue有用文件引入了
+
+可以依序看完 
+2.0_test.html  
+3.0_test.html
+如果都懂，也可以直接去3.2
+但是建議看一下，消除資訊不對稱的狀況
+尤其3.0_test.html有大量註解
+
+之後到「vue-攜帶」資料夾中執行cmd輸入npm i
+就會把package.json裡面提到的dependency 
+匯集成一個node_modules資料夾
+
+用vscode 打開 vue攜帶 資料夾
+東西寫在App.vue
+還有components/son.vue

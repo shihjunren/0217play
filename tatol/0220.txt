@@ -1,0 +1,5 @@
+延伸模組
+加入 EF Core Power Tools
+
+在專案右鍵 -> EF Core Power Tools -> Reverse Engineer
+-> Add Database Connection -> 加入 所需的資料庫 ->選擇所需的資料表 
